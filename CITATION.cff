@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "内核旋钮架构（营造法式）"
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "邵"
+    given-names: "寿鹏"
+    alias: "魔法徽章 / mofahuizhang"
+version: 1.0.0
+date-released: 2026-10-19
+license: CC-BY-NC-4.0
+repository-code: "https://gitee.com/mofahuizhang/Arcus"
+keywords:
+  - 内核旋钮架构
+  - 单主体架构
+  - 大模型内核
+  - 约束混合
+  - 旋钮
+  - 验收判据
+  - 营造法式
